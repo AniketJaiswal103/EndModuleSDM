@@ -1,0 +1,40 @@
+Employee Recruitment System
+
+Introduction:
+Employee Recruitment System is a system in which jobseekers can register themselves online, view organization requiremnets and apply for the suitable job.
+Primary purpose to develop this system is to optimize the recruitment process for an organization.
+
+Functional requirements:
+
+This application is usefull for the job seekers who are in need for work.
+In order to find the job they have to enroll by signup or do registration for the same.
+While registration they have to upload their CV for the companies which are in need of workers.
+After registration they can access the web application  by login with their credentials.
+
+Here, main role is of application support staff, they have to do updation for the hiring process.
+
+Registration and Login:
+In order to find the job they have to enroll by signup or do registration for the same.
+While registration they have to upload their CV for the companies which are in need of workers.
+After registration they can access the web application  by login with their credentials.
+Company will also register in order to take the cadidates for specific role.
+Company will also pay for the functions of this web application.
+
+Payment Process:
+After registration candidate have to do the payment for the facilities which are provided by the web application.
+All the status of payment gets stores in the database.
+Company will also pay for the functions of this web application.
+
+Company:
+Company will also register in order to take the cadidates for specific role.
+Company will also pay for the functions of this web application.
+
+Recruitment Process:
+Company find the best CV suited for their specific role.
+Give chance to the candidate for aptitude,interview and HR rounds.
+
+After selection of the candidate they will get informed on the site.
+
+By this type of process Candidate as well as company both gets what they want.
+
+  

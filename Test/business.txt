@@ -1,0 +1,3 @@
+Bussiness entities and Bussiness Operations
+
+Web application apply for charges for candidate as well as company.
